@@ -1,0 +1,8 @@
+                            Course Name  Credits Grade  Grade Value  Weighted
+0             Contemporary_Civilization      4.0    A-         3.67     14.68
+1             Introduction_to_Databases      3.0     A         4.00     12.00
+2  Programming_Language_and_Translators      0.0     P         0.00      0.00
+3                Artifiial_Intelligence      3.0     A         4.00     12.00
+4          Projects_in_Computer_Science      3.0    B+         3.33      9.99
+
+3.74

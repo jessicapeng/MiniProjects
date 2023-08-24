@@ -1,0 +1,5 @@
+Contemporary_Civilization 4.0 A-
+Introduction_to_Databases 3.0 A
+Programming_Language_and_Translators 0.0 P
+Artifiial_Intelligence 3.0 A
+Projects_in_Computer_Science 3.0 B+
